@@ -6,7 +6,7 @@ Disclaimer: Code written by ChatGPT.
 # Info
 Requires python set up on your device, as well as the plexapi package.
 
-I tested this on a Windows 11 machine.
+I tested this on a Windows 11 machine, and only used music playlists. Not sure how it would handle video playlists.
 
 Before running, replace the PLEX_BASEURL and PLEX_TOKEN with your url and token.
 
