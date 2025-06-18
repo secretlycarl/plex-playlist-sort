@@ -32,7 +32,8 @@ original (no sort)
 
 And some modifiers - 
 ```
---desc (sort in reverse/descending order)
+--desc (sort in reverse/descending order, works for all sort methods except original)
+--reverse (only used when using original sort)
 --dry-run (preview sorting in cmd without making changes)
 --backup (creates "[Playlist Title] Backup" playlist)
 ```
